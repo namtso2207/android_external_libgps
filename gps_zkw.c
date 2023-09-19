@@ -42,7 +42,7 @@
  
 
  /* the name of the controlled socket */ 
- #define GPS_CHANNEL_NAME        "/dev/ttyS3" 
+ #define GPS_CHANNEL_NAME        "/dev/ttyACM0"
  #define TTY_BAUD                B9600   // B115200 
  
 
